@@ -38,7 +38,7 @@ https://alto-theta.vercel.app/
 ![image](https://github.com/user-attachments/assets/f2122315-6028-470d-be3d-90932a1b598b)
 
 
-Steps to install
+Steps to install the frontend app
 
 **Install the npm package **
 
@@ -55,3 +55,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+Steps to install the backend app
+
+pip install requirement.txt
+
