@@ -4,20 +4,20 @@
 
 Our project is designed to revolutionize retail operations through intelligent automation and data-driven insights.
 
-Predictive Analytics: Real-time demand forecasting and inventory adjustments based on historical sales data. Customer Experience: Personalized shopping experiences with tailored recommendations and scheduling for deliveries and installations. Geospatial Analytics: Using location intelligence to optimize store placements and resource allocation. Inventory Management: Automated alerts for low-stock items and cross-store inventory sharing. Sustainability Insights: Tracking and reporting on the environmental impact of inventory.
+1.AltoGeospatial Hub : Visualizes real-time demand and inventory flow in map and widget view
+2.Automated Stock Reallocation: Monitors stock levels and triggers transfers between stores to meet customer demand efficiently.
+3. Predictive Analytics: Real-time demand forecasting and inventory adjustments based on historical sales data.
 
-Physical Store Operations: The solution does not manage physical store layouts, staffing, or in-store promotions.
 
-Product Manufacturing: The project does not involve the manufacturing or sourcing of products. Customer Support: While we enhance customer experience, direct customer support services are not included.
+Smart Restocking Alerts: Sends notifications when stock levels are low, suggesting nearby suppliers for replenishment.
+Data-Driven Insights: Provides actionable analytics to inform inventory management decisions.
 
-Legacy System Integration: The solution will not focus on integrating with existing legacy systems. 3.Future opportunities for this solution:
-
-PriceMinds AI - For AI-Driven Dynamic Pricing
-VirtuView Shopping - For Augmented Reality (AR) Shopping
-ProactiveCare AI -For Predictive Maintenance for Products
-StockPulse Alerts - For Real-Time Inventory Replenishment Alerts
-SyncStock Hub - For Cross-Store Inventory Sharing
-EcoLens Insights - For Sustainability Insights
+3.Future opportunities for this solution:
+ - PriceMinds AI - For AI-Driven Dynamic Pricing
+ - StockPulse Alerts - For Real-Time Inventory Replenishment Alerts
+ - SyncStock Hub - For Cross-Store Inventory Sharing
+-  EcoLens Insights - For Sustainability Insights
+- Brand Sync : Visualizes real-time demand and inventory flow using brand icons for clarity in supply chain management.
 
 
 **Demo Link:**
