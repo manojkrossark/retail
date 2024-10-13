@@ -37,6 +37,8 @@ https://alto-theta.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/9d2e075b-89a5-4bc4-82ec-e63fee4a74fb)
 
+![image](https://github.com/user-attachments/assets/66980814-8d40-42a0-9b6b-8d4fbf630d16)
+
 ![image](https://github.com/user-attachments/assets/0e3f79fb-9d5f-4d91-b6b1-83ec86808de7)
 
 
