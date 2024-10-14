@@ -28,7 +28,9 @@ https://alto-theta.vercel.app/
 ![image](https://github.com/user-attachments/assets/82514e4f-cace-47a8-847c-723a96686898)
 
 
-**Alto Workflow:**
+
+                                             ****Alto Workflow:****
+
 ![alto drawio (3)](https://github.com/user-attachments/assets/7b982893-7a94-4d14-a261-55c9d25b8c1c)
 
 
